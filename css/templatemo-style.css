@@ -125,7 +125,7 @@ p {
 }
 .navbar-brand {
 	font-family: 'Open Sans', sans-serif;
-	font-size: 25px;
+	font-size: 2vw;
 	text-transform: uppercase;
 	color: #fff!important;
 	transition: all 0.5s;
@@ -134,7 +134,7 @@ p {
 .navbar-brand em {
 	font-style: normal;
 	color: #f7c552;
-	font-size: 32px;
+	font-size: 3vw;
 }
 .header.active .navbar-brand {
 	color: #121212!important;
