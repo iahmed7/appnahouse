@@ -120,6 +120,15 @@ p {
 	cursor: pointer;
 }
 
+.pop-button h4 a {
+	color: white;
+	font-weight: bold;
+}
+
+.pop-button h4 a:hover {
+	color: black;
+}
+
 
 .header {
     position: fixed;
@@ -205,6 +214,7 @@ p {
 }
 .page-section {
 	padding: 40px 0;
+	background-color: darkslategray;
 }
 .navbar-inverse .navbar-toggle {
 	margin-top: 22px;
