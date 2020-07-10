@@ -213,7 +213,7 @@ p {
     border: none;
 }
 .page-section {
-	padding: 40px 0;
+	padding: 40px 0 0 0;
 	background-color: darkslategray;
 }
 .navbar-inverse .navbar-toggle {
