@@ -4,7 +4,7 @@
     margin: 0;
     padding: 0;
 	font-family: 'Roboto', arial, sans-serif;
-	overflow-x: hidden;
+	/* overflow-x: hidden; */
 }
 
 body {
@@ -240,8 +240,8 @@ bootstrap.min.css:5
 	font-size: 20px;
 	font-weight: bold;
 	line-height: 28px;
-	margin: auto 25%;
-	/* padding: 0px 25%; */
+	/* margin: auto 25%; */
+	padding: 0px 25%;
 }
 
 .baner-content .text-content .primary-white-button {
